@@ -1,57 +1,162 @@
-09:07:13 **** Build of configuration Debug for project vlc-sec ****
+13:16:44 **** Build of configuration Default for project vlc2 ****
 make all 
-Building file: ../test/src/misc/variables.c
-Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"test/src/misc/variables.d" -MT"test/src/misc/variables.d" -o "test/src/misc/variables.o" "../test/src/misc/variables.c"
-In file included from ../test/src/misc/variables.c:26:0:
-../test/src/misc/../../libvlc/test.h:64:43: error: ‘SRCDIR’ undeclared here (not in a function)
- static const char test_default_sample[] = SRCDIR"/samples/empty.voc";
-                                           ^
-../test/src/misc/../../libvlc/test.h:64:49: error: expected ‘,’ or ‘;’ before string constant
- static const char test_default_sample[] = SRCDIR"/samples/empty.voc";
-                                                 ^
-../test/src/misc/variables.c:27:36: fatal error: ../lib/libvlc_internal.h: No such file or directory
- #include "../lib/libvlc_internal.h"
-                                    ^
-compilation terminated.
-make: *** [test/src/misc/variables.o] Error 1
-09:07:56 **** Build of configuration Debug for project vlc ****
+make  all-recursive
+make[1]: Entering directory `/home/khalid/Documents/project/vlc2'
+Making all in compat
+make[2]: Entering directory `/home/khalid/Documents/project/vlc2/compat'
+make  all-am
+make[3]: Entering directory `/home/khalid/Documents/project/vlc2/compat'
+make[3]: Nothing to be done for `all-am'.
+make[3]: Leaving directory `/home/khalid/Documents/project/vlc2/compat'
+make[2]: Leaving directory `/home/khalid/Documents/project/vlc2/compat'
+Making all in doc
+make[2]: Entering directory `/home/khalid/Documents/project/vlc2/doc'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/khalid/Documents/project/vlc2/doc'
+Making all in po
+make[2]: Entering directory `/home/khalid/Documents/project/vlc2/po'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/khalid/Documents/project/vlc2/po'
+Making all in share
+make[2]: Entering directory `/home/khalid/Documents/project/vlc2/share'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/khalid/Documents/project/vlc2/share'
+Making all in src
+make[2]: Entering directory `/home/khalid/Documents/project/vlc2/src'
+  GEN      stamp-revision
+fatal: Not a git repository: '../.git/'
+make  all-am
+make[3]: Entering directory `/home/khalid/Documents/project/vlc2/src'
+make[3]: Nothing to be done for `all-am'.
+make[3]: Leaving directory `/home/khalid/Documents/project/vlc2/src'
+make[2]: Leaving directory `/home/khalid/Documents/project/vlc2/src'
+Making all in modules
+make[2]: Entering directory `/home/khalid/Documents/project/vlc2/modules'
+make  all-recursive
+make[3]: Entering directory `/home/khalid/Documents/project/vlc2/modules'
+Making all in .
+make[4]: Entering directory `/home/khalid/Documents/project/vlc2/modules'
+make[4]: Nothing to be done for `all-am'.
+make[4]: Leaving directory `/home/khalid/Documents/project/vlc2/modules'
+Making all in gui/macosx
+make[4]: Entering directory `/home/khalid/Documents/project/vlc2/modules/gui/macosx'
+make  all-am
+make[5]: Entering directory `/home/khalid/Documents/project/vlc2/modules/gui/macosx'
+make[5]: Nothing to be done for `all-am'.
+make[5]: Leaving directory `/home/khalid/Documents/project/vlc2/modules/gui/macosx'
+make[4]: Leaving directory `/home/khalid/Documents/project/vlc2/modules/gui/macosx'
+Making all in gui/qt4
+make[4]: Entering directory `/home/khalid/Documents/project/vlc2/modules/gui/qt4'
+make  all-am
+make[5]: Entering directory `/home/khalid/Documents/project/vlc2/modules/gui/qt4'
+make[5]: Nothing to be done for `all-am'.
+make[5]: Leaving directory `/home/khalid/Documents/project/vlc2/modules/gui/qt4'
+make[4]: Leaving directory `/home/khalid/Documents/project/vlc2/modules/gui/qt4'
+Making all in gui/skins2
+make[4]: Entering directory `/home/khalid/Documents/project/vlc2/modules/gui/skins2'
+make  all-am
+make[5]: Entering directory `/home/khalid/Documents/project/vlc2/modules/gui/skins2'
+make[5]: Nothing to be done for `all-am'.
+make[5]: Leaving directory `/home/khalid/Documents/project/vlc2/modules/gui/skins2'
+make[4]: Leaving directory `/home/khalid/Documents/project/vlc2/modules/gui/skins2'
+make[3]: Leaving directory `/home/khalid/Documents/project/vlc2/modules'
+make[2]: Leaving directory `/home/khalid/Documents/project/vlc2/modules'
+Making all in lib
+make[2]: Entering directory `/home/khalid/Documents/project/vlc2/lib'
+make  all-am
+make[3]: Entering directory `/home/khalid/Documents/project/vlc2/lib'
+make[3]: Nothing to be done for `all-am'.
+make[3]: Leaving directory `/home/khalid/Documents/project/vlc2/lib'
+make[2]: Leaving directory `/home/khalid/Documents/project/vlc2/lib'
+Making all in bin
+make[2]: Entering directory `/home/khalid/Documents/project/vlc2/bin'
+  GEN      ../modules/plugins.dat
+make[2]: Leaving directory `/home/khalid/Documents/project/vlc2/bin'
+Making all in test
+make[2]: Entering directory `/home/khalid/Documents/project/vlc2/test'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/khalid/Documents/project/vlc2/test'
+make[2]: Entering directory `/home/khalid/Documents/project/vlc2'
+make[2]: Leaving directory `/home/khalid/Documents/project/vlc2'
+make[1]: Leaving directory `/home/khalid/Documents/project/vlc2'
+13:17:46 **** Incremental Build of configuration Default for project vlc2 ****
 make all 
-make: Nothing to be done for `all'.
-09:08:08 **** Incremental Build of configuration Debug for project vlc-sec ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o modules/video_chroma/swscale.o ../modules/video_chroma/swscale.c 
-../modules/video_chroma/swscale.c:33:24: fatal error: vlc_common.h: No such file or directory
- #include <vlc_common.h>
-                        ^
-compilation terminated.
-09:10:39 **** Incremental Build of configuration Debug for project vlc ****
-make all 
-make: Nothing to be done for `all'.
-09:10:45 **** Incremental Build of configuration Debug for project vlc-sec ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o src/video_output/window.o ../src/video_output/window.c 
-../src/video_output/window.c:32:24: fatal error: vlc_common.h: No such file or directory
- #include <vlc_common.h>
-                        ^
-compilation terminated.
-09:11:45 **** Incremental Build of configuration Debug for project vlc ****
-make all 
-make: Nothing to be done for `all'.
-09:11:48 **** Incremental Build of configuration Release for project vlc-sec ****
-make all 
-Building file: ../test/src/misc/variables.c
-Invoking: GCC C Compiler
-gcc -O3 -Wall -c -fmessage-length=0 -MMD -MP -MF"test/src/misc/variables.d" -MT"test/src/misc/variables.d" -o "test/src/misc/variables.o" "../test/src/misc/variables.c"
-In file included from ../test/src/misc/variables.c:26:0:
-../test/src/misc/../../libvlc/test.h:64:43: error: ‘SRCDIR’ undeclared here (not in a function)
- static const char test_default_sample[] = SRCDIR"/samples/empty.voc";
-                                           ^
-../test/src/misc/../../libvlc/test.h:64:49: error: expected ‘,’ or ‘;’ before string constant
- static const char test_default_sample[] = SRCDIR"/samples/empty.voc";
-                                                 ^
-../test/src/misc/variables.c:27:36: fatal error: ../lib/libvlc_internal.h: No such file or directory
- #include "../lib/libvlc_internal.h"
-                                    ^
-compilation terminated.
-make: *** [test/src/misc/variables.o] Error 1
+make  all-recursive
+make[1]: Entering directory `/home/khalid/Documents/project/vlc2'
+Making all in compat
+make[2]: Entering directory `/home/khalid/Documents/project/vlc2/compat'
+make  all-am
+make[3]: Entering directory `/home/khalid/Documents/project/vlc2/compat'
+make[3]: Nothing to be done for `all-am'.
+make[3]: Leaving directory `/home/khalid/Documents/project/vlc2/compat'
+make[2]: Leaving directory `/home/khalid/Documents/project/vlc2/compat'
+Making all in doc
+make[2]: Entering directory `/home/khalid/Documents/project/vlc2/doc'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/khalid/Documents/project/vlc2/doc'
+Making all in po
+make[2]: Entering directory `/home/khalid/Documents/project/vlc2/po'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/khalid/Documents/project/vlc2/po'
+Making all in share
+make[2]: Entering directory `/home/khalid/Documents/project/vlc2/share'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/khalid/Documents/project/vlc2/share'
+Making all in src
+make[2]: Entering directory `/home/khalid/Documents/project/vlc2/src'
+  GEN      stamp-revision
+fatal: Not a git repository: '../.git/'
+make  all-am
+make[3]: Entering directory `/home/khalid/Documents/project/vlc2/src'
+make[3]: Nothing to be done for `all-am'.
+make[3]: Leaving directory `/home/khalid/Documents/project/vlc2/src'
+make[2]: Leaving directory `/home/khalid/Documents/project/vlc2/src'
+Making all in modules
+make[2]: Entering directory `/home/khalid/Documents/project/vlc2/modules'
+make  all-recursive
+make[3]: Entering directory `/home/khalid/Documents/project/vlc2/modules'
+Making all in .
+make[4]: Entering directory `/home/khalid/Documents/project/vlc2/modules'
+make[4]: Nothing to be done for `all-am'.
+make[4]: Leaving directory `/home/khalid/Documents/project/vlc2/modules'
+Making all in gui/macosx
+make[4]: Entering directory `/home/khalid/Documents/project/vlc2/modules/gui/macosx'
+make  all-am
+make[5]: Entering directory `/home/khalid/Documents/project/vlc2/modules/gui/macosx'
+make[5]: Nothing to be done for `all-am'.
+make[5]: Leaving directory `/home/khalid/Documents/project/vlc2/modules/gui/macosx'
+make[4]: Leaving directory `/home/khalid/Documents/project/vlc2/modules/gui/macosx'
+Making all in gui/qt4
+make[4]: Entering directory `/home/khalid/Documents/project/vlc2/modules/gui/qt4'
+make  all-am
+make[5]: Entering directory `/home/khalid/Documents/project/vlc2/modules/gui/qt4'
+make[5]: Nothing to be done for `all-am'.
+make[5]: Leaving directory `/home/khalid/Documents/project/vlc2/modules/gui/qt4'
+make[4]: Leaving directory `/home/khalid/Documents/project/vlc2/modules/gui/qt4'
+Making all in gui/skins2
+make[4]: Entering directory `/home/khalid/Documents/project/vlc2/modules/gui/skins2'
+make  all-am
+make[5]: Entering directory `/home/khalid/Documents/project/vlc2/modules/gui/skins2'
+make[5]: Nothing to be done for `all-am'.
+make[5]: Leaving directory `/home/khalid/Documents/project/vlc2/modules/gui/skins2'
+make[4]: Leaving directory `/home/khalid/Documents/project/vlc2/modules/gui/skins2'
+make[3]: Leaving directory `/home/khalid/Documents/project/vlc2/modules'
+make[2]: Leaving directory `/home/khalid/Documents/project/vlc2/modules'
+Making all in lib
+make[2]: Entering directory `/home/khalid/Documents/project/vlc2/lib'
+make  all-am
+make[3]: Entering directory `/home/khalid/Documents/project/vlc2/lib'
+make[3]: Nothing to be done for `all-am'.
+make[3]: Leaving directory `/home/khalid/Documents/project/vlc2/lib'
+make[2]: Leaving directory `/home/khalid/Documents/project/vlc2/lib'
+Making all in bin
+make[2]: Entering directory `/home/khalid/Documents/project/vlc2/bin'
+  GEN      ../modules/plugins.dat
+make[2]: Leaving directory `/home/khalid/Documents/project/vlc2/bin'
+Making all in test
+make[2]: Entering directory `/home/khalid/Documents/project/vlc2/test'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/khalid/Documents/project/vlc2/test'
+make[2]: Entering directory `/home/khalid/Documents/project/vlc2'
+make[2]: Leaving directory `/home/khalid/Documents/project/vlc2'
+make[1]: Leaving directory `/home/khalid/Documents/project/vlc2'
