@@ -1,0 +1,9 @@
+!SESSION 2015-11-15 12:32:50.636 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_85
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-11-15 12:35:13.248
+!MESSAGE Indexed 'vlc2' (1,276 sources, 936 headers) in 80.06 sec: 163,811 declarations; 968,329 references; 3,497 unresolved inclusions; 8,970 syntax errors; 113,092 unresolved names (9.08%)
