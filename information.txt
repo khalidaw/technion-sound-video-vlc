@@ -1,0 +1,18 @@
+void InputManager::setRate( int new_rate ) in file  modules/gui/qt4/input_manager.cpp
+
+————
+
+static inline int var_SetFloat( vlc_object_t *p_obj, const char *psz_name, float f )
+
+
+   var_SetFloat( THEPL, "rate",
+                 (float)INPUT_RATE_DEFAULT / (float)new_rate );
+
+var_SetFloat in
+include/vlc_variables.h
+
+———————
+
+modules/gui/macosx/CoreInteraction.m:    var_SetFloat(pl_Get(VLCIntf), "rate", 1.);
+
+test
