@@ -82,3 +82,18 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 
 !ENTRY org.eclipse.cdt.core 1 0 2015-11-15 13:18:12.480
 !MESSAGE Indexed 'vlc2' (1,276 sources, 920 headers) in 82.79 sec: 161,526 declarations; 969,306 references; 3,491 unresolved inclusions; 8,050 syntax errors; 112,655 unresolved names (9.06%)
+!SESSION 2015-12-11 15:27:50.721 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_85
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-12-11 15:29:22.387
+!MESSAGE Indexed 'projecttttt' (0 sources, 0 headers) in 0.02 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-12-11 15:34:12.590
+!MESSAGE Indexed 'vlcProject' (0 sources, 0 headers) in 0.00 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-12-11 15:36:32.371
+!MESSAGE Indexed 'failcProjct' (1,276 sources, 920 headers) in 42.14 sec: 161,526 declarations; 969,306 references; 3,491 unresolved inclusions; 8,050 syntax errors; 112,655 unresolved names (9.06%)

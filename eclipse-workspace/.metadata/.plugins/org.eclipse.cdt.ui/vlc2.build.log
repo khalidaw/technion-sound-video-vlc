@@ -1,4 +1,4 @@
-13:17:46 **** Incremental Build of configuration Default for project vlc2 ****
+13:37:59 **** Incremental Build of configuration Default for project vlc2 ****
 make all 
 make  all-recursive
 make[1]: Entering directory `/home/khalid/Documents/project/vlc2'
@@ -80,5 +80,5 @@ make[2]: Entering directory `/home/khalid/Documents/project/vlc2'
 make[2]: Leaving directory `/home/khalid/Documents/project/vlc2'
 make[1]: Leaving directory `/home/khalid/Documents/project/vlc2'
 
-13:17:53 Build Finished (took 7s.161ms)
+13:38:03 Build Finished (took 3s.683ms)
 

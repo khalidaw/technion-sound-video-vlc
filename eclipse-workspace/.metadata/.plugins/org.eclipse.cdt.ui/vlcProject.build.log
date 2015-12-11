@@ -1,0 +1,20 @@
+15:35:49 **** Incremental Build of configuration Debug for project vlcProject ****
+make all 
+Building file: /home/khalid/Documents/project/vlc2/test/src/misc/variables.c
+Invoking: Cross GCC Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"vlc2/test/src/misc/variables.d" -MT"vlc2/test/src/misc/variables.d" -o "vlc2/test/src/misc/variables.o" "/home/khalid/Documents/project/vlc2/test/src/misc/variables.c"
+In file included from /home/khalid/Documents/project/vlc2/test/src/misc/variables.c:26:0:
+/home/khalid/Documents/project/vlc2/test/src/misc/../../libvlc/test.h:64:43: error: ‘SRCDIR’ undeclared here (not in a function)
+ static const char test_default_sample[] = SRCDIR"/samples/empty.voc";
+                                           ^
+/home/khalid/Documents/project/vlc2/test/src/misc/../../libvlc/test.h:64:49: error: expected ‘,’ or ‘;’ before string constant
+ static const char test_default_sample[] = SRCDIR"/samples/empty.voc";
+                                                 ^
+/home/khalid/Documents/project/vlc2/test/src/misc/variables.c:27:36: fatal error: ../lib/libvlc_internal.h: No such file or directory
+ #include "../lib/libvlc_internal.h"
+                                    ^
+compilation terminated.
+make: *** [vlc2/test/src/misc/variables.o] Error 1
+
+15:35:50 Build Finished (took 1s.272ms)
+

@@ -1,0 +1,15 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+O_SRCS += \
+/home/khalid/Documents/project/vlc2/modules/audio_filter/spatializer/.libs/allpass.o \
+/home/khalid/Documents/project/vlc2/modules/audio_filter/spatializer/.libs/comb.o \
+/home/khalid/Documents/project/vlc2/modules/audio_filter/spatializer/.libs/denormals.o \
+/home/khalid/Documents/project/vlc2/modules/audio_filter/spatializer/.libs/revmodel.o \
+/home/khalid/Documents/project/vlc2/modules/audio_filter/spatializer/.libs/spatializer.o 
+
+
+# Each subdirectory must supply rules for building sources it contributes
+

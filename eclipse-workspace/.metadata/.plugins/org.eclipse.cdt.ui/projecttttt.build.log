@@ -1,0 +1,20 @@
+15:31:32 **** Build of configuration Debug for project projecttttt ****
+make all 
+Building file: ../test/src/misc/variables.c
+Invoking: Cross GCC Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"test/src/misc/variables.d" -MT"test/src/misc/variables.d" -o "test/src/misc/variables.o" "../test/src/misc/variables.c"
+In file included from ../test/src/misc/variables.c:26:0:
+../test/src/misc/../../libvlc/test.h:64:43: error: ‘SRCDIR’ undeclared here (not in a function)
+ static const char test_default_sample[] = SRCDIR"/samples/empty.voc";
+                                           ^
+../test/src/misc/../../libvlc/test.h:64:49: error: expected ‘,’ or ‘;’ before string constant
+ static const char test_default_sample[] = SRCDIR"/samples/empty.voc";
+                                                 ^
+../test/src/misc/variables.c:27:36: fatal error: ../lib/libvlc_internal.h: No such file or directory
+ #include "../lib/libvlc_internal.h"
+                                    ^
+compilation terminated.
+make: *** [test/src/misc/variables.o] Error 1
+
+15:31:34 Build Finished (took 1s.643ms)
+
