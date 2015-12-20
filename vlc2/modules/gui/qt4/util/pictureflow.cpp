@@ -156,7 +156,7 @@ void PictureFlowAnimator::update()
     speed = 512 + 16384 * (PFREAL_ONE + fsin(ia)) / PFREAL_ONE;
 #endif
 
-    frame += speed * step;
+    frame += speed * 1000*step;
 
     int index = frame >> 16;
     int pos = frame & 0xffff;

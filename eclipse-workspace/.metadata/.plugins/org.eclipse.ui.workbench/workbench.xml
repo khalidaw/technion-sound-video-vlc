@@ -1,54 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="19" version="2.0">
+<workbench progressCount="23" version="2.0">
 <workbenchAdvisor/>
-<window height="645" maximized="true" width="1005" x="65" y="24">
+<window height="559" width="993" x="781" y="113">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
 </perspectiveBar>
 <coolbarLayout>
 <coolItem id="group.file" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="252" y="30"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="184" y="30"/>
 <coolItem id="additions" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.cdt.ui.CElementCreationActionSet" itemType="typeToolBarContribution" x="204" y="30"/>
 <coolItem id="org.eclipse.debug.ui.launch.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="156" y="30"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="60" y="30"/>
 <coolItem id="org.eclipse.debug.ui.main.toolbar" itemType="typeToolBarContribution" x="40" y="30"/>
 <coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="88" y="30"/>
-<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="273" y="30"/>
+<coolItem id="org.eclipse.team.cvs.ui.CVSActionSet" itemType="typeToolBarContribution" x="40" y="30"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="40" y="30"/>
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="232" y="30"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.cdt.ui.editor.CEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
 </coolbarLayout>
-<page aggregateWorkingSetId="Aggregate for window 1447583582003" focus="true" label="Workspace - C/C++">
+<page aggregateWorkingSetId="Aggregate for window 1447583582003" focus="true" label="Workspace - CVS Repository Exploring">
 <editors>
 <editorArea activeWorkbook="DefaultEditorWorkbook">
 <info part="DefaultEditorWorkbook">
 <folder appearance="1" expanded="2">
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+<part id="22"/>
+<part id="23"/>
+<part id="24"/>
+<part id="25"/>
+<part id="26"/>
+</presentation>
 </folder>
 </info>
 </editorArea>
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="vlc.c" partName="vlc.c" path="/home/khalid/Documents/project/vlc2/bin/vlc.c" title="vlc.c" tooltip="failcProjct/bin/vlc.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/bin/vlc.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2180" selectionTopPixel="595"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="hotkeys.c" partName="hotkeys.c" path="/home/khalid/Documents/project/vlc2/modules/control/hotkeys.c" title="hotkeys.c" tooltip="failcProjct/modules/control/hotkeys.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/modules/control/hotkeys.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="9" selectionOffset="12383" selectionTopPixel="5916"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="variables.c" partName="variables.c" path="/home/khalid/Documents/project/vlc2/src/misc/variables.c" title="variables.c" tooltip="failcProjct/src/misc/variables.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/src/misc/variables.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="8968" selectionTopPixel="4182"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="dbus_player.c" partName="dbus_player.c" path="/home/khalid/Documents/project/vlc2/modules/control/dbus/dbus_player.c" title="dbus_player.c" tooltip="failcProjct/modules/control/dbus/dbus_player.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/modules/control/dbus/dbus_player.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="12" selectionOffset="10808" selectionTopPixel="6517"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="dbus.c" partName="dbus.c" path="/home/khalid/Documents/project/vlc2/modules/control/dbus/dbus.c" title="dbus.c" tooltip="failcProjct/modules/control/dbus/dbus.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/modules/control/dbus/dbus.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="29181" selectionTopPixel="14459"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="engine.c" partName="engine.c" path="/home/khalid/Documents/project/vlc2/src/playlist/engine.c" title="engine.c" tooltip="failcProjct/src/playlist/engine.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/src/playlist/engine.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5064" selectionTopPixel="2448"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="control.c" partName="control.c" path="/home/khalid/Documents/project/vlc2/src/input/control.c" title="control.c" tooltip="failcProjct/src/input/control.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/src/input/control.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="15" selectionOffset="1977" selectionTopPixel="569"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="x264.c" partName="x264.c" path="/home/khalid/Documents/project/vlc2/modules/codec/x264.c" title="x264.c" tooltip="failcProjct/modules/codec/x264.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/modules/codec/x264.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="12" selectionOffset="41408" selectionTopPixel="23495"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="output.c" partName="output.c" path="/home/khalid/Documents/project/vlc2/src/audio_output/output.c" title="output.c" tooltip="failcProjct/src/audio_output/output.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/src/audio_output/output.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="8" selectionOffset="19193" selectionTopPixel="9571"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="dec.c" partName="dec.c" path="/home/khalid/Documents/project/vlc2/src/audio_output/dec.c" title="dec.c" tooltip="failcProjct/src/audio_output/dec.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/src/audio_output/dec.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="12926" selectionTopPixel="5480"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="directsound.c" partName="directsound.c" path="/home/khalid/Documents/project/vlc2/modules/audio_output/directsound.c" title="directsound.c" tooltip="failcProjct/modules/audio_output/directsound.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/modules/audio_output/directsound.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="16537" selectionTopPixel="5972"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="audioqueue.c" partName="audioqueue.c" path="/home/khalid/Documents/project/vlc2/modules/audio_output/audioqueue.c" title="audioqueue.c" tooltip="failcProjct/modules/audio_output/audioqueue.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/modules/audio_output/audioqueue.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="6" selectionOffset="5431" selectionTopPixel="1637"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="jack.c" partName="jack.c" path="/home/khalid/Documents/project/vlc2/modules/audio_output/jack.c" title="jack.c" tooltip="failcProjct/modules/audio_output/jack.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/modules/audio_output/jack.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="6" selectionOffset="5587" selectionTopPixel="1819"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="waveout.c" partName="waveout.c" path="/home/khalid/Documents/project/vlc2/modules/audio_output/waveout.c" title="waveout.c" tooltip="failcProjct/modules/audio_output/waveout.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/modules/audio_output/waveout.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="6" selectionOffset="11340" selectionTopPixel="4131"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="TPCircularBuffer.c" partName="TPCircularBuffer.c" path="/home/khalid/Documents/project/vlc2/modules/audio_output/TPCircularBuffer.c" title="TPCircularBuffer.c" tooltip="failcProjct/modules/audio_output/TPCircularBuffer.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/modules/audio_output/TPCircularBuffer.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="21" selectionOffset="4419" selectionTopPixel="1257"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="common.c" partName="common.c" path="/home/khalid/Documents/project/vlc2/src/audio_output/common.c" title="common.c" tooltip="failcProjct/src/audio_output/common.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/src/audio_output/common.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="9216" selectionTopPixel="4012"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="filters.c" partName="filters.c" path="/home/khalid/Documents/project/vlc2/src/audio_output/filters.c" title="filters.c" tooltip="failcProjct/src/audio_output/filters.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/src/audio_output/filters.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="12178" selectionTopPixel="5826"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="src.c" partName="src.c" path="/home/khalid/Documents/project/vlc2/modules/audio_filter/resampler/src.c" title="src.c" tooltip="failcProjct/modules/audio_filter/resampler/src.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/modules/audio_filter/resampler/src.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4810" selectionTopPixel="1616"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="audiobargraph_a.c" partName="audiobargraph_a.c" path="/home/khalid/Documents/project/vlc2/modules/audio_filter/audiobargraph_a.c" title="audiobargraph_a.c" tooltip="failcProjct/modules/audio_filter/audiobargraph_a.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/modules/audio_filter/audiobargraph_a.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5737" selectionTopPixel="1469"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="compressor.c" partName="compressor.c" path="/home/khalid/Documents/project/vlc2/modules/audio_filter/compressor.c" title="compressor.c" tooltip="failcProjct/modules/audio_filter/compressor.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/modules/audio_filter/compressor.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="7245" selectionTopPixel="3063"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="vlc_es.h" partName="vlc_es.h" path="/home/khalid/Documents/project/vlc2/include/vlc_es.h" title="vlc_es.h" tooltip="failcProjct/include/vlc_es.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/include/vlc_es.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="14" selectionOffset="2256" selectionTopPixel="498"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="gather.c" partName="gather.c" path="/home/khalid/Documents/project/vlc2/modules/stream_out/gather.c" title="gather.c" tooltip="failcProjct/modules/stream_out/gather.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/modules/stream_out/gather.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="6" selectionOffset="4646" selectionTopPixel="237"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="autodel.c" partName="autodel.c" path="/home/khalid/Documents/project/vlc2/modules/stream_out/autodel.c" title="autodel.c" tooltip="failcProjct/modules/stream_out/autodel.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/modules/stream_out/autodel.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4664" selectionTopPixel="1910"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="volume.c" partName="volume.c" path="/home/khalid/Documents/project/vlc2/src/audio_output/volume.c" title="volume.c" tooltip="failcProjct/src/audio_output/volume.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/src/audio_output/volume.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3546" selectionTopPixel="1438"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="aout_internal.h" partName="aout_internal.h" path="/home/khalid/Documents/project/vlc2/src/audio_output/aout_internal.h" title="aout_internal.h" tooltip="failcProjct/src/audio_output/aout_internal.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/src/audio_output/aout_internal.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1838" selectionTopPixel="221"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="vlc_aout.h" partName="vlc_aout.h" path="/home/khalid/Documents/project/vlc2/include/vlc_aout.h" title="vlc_aout.h" tooltip="failcProjct/include/vlc_aout.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/include/vlc_aout.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="12909" selectionTopPixel="4998"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="pictureflow.cpp" partName="pictureflow.cpp" path="/home/khalid/Documents/project/vlc2/modules/gui/qt4/util/pictureflow.cpp" title="pictureflow.cpp" tooltip="failcProjct/modules/gui/qt4/util/pictureflow.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/failcProjct/modules/gui/qt4/util/pictureflow.cpp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4664" selectionTopPixel="1988"/>
+</editor>
 </editors>
 <views>
-<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
-<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.cdt.ui.cview.groupincludes="false" org.eclipse.cdt.ui.cview.groupmacros="false" org.eclipse.cdt.ui.editor.CUChildren="true" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+<view id="org.eclipse.team.ui.GenericHistoryView" partName="History">
+<viewState/>
 </view>
-<view id="org.eclipse.ui.views.PropertySheet" partName="Properties"/>
-<view id="org.eclipse.cdt.make.ui.views.MakeView" partName="Make Target"/>
-<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
-<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
-<columnWidths org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="105" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105" org.eclipse.ui.ide.severityAndDescriptionField="350"/>
-<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
-<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
-<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
-<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
-<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
-</viewState>
+<view id="org.eclipse.cdt.visualizer.view" partName="Visualizer"/>
+<view id="org.eclipse.debug.ui.DebugView" partName="Debug">
+<viewState/>
 </view>
-<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<view id="org.eclipse.cdt.debug.ui.executablesView" partName="Executables"/>
+<view id="org.eclipse.team.ccvs.ui.RepositoriesView" partName="CVS Repositories">
 <viewState/>
 </view>
 <view id="org.eclipse.ui.views.TaskList" partName="Tasks">
@@ -63,11 +194,37 @@
 <visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
 </viewState>
 </view>
+<view id="org.eclipse.debug.ui.VariableView" partName="Variables">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.BreakpointView" partName="Breakpoints">
+<viewState/>
+</view>
 <view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
 <viewState/>
 </view>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.cdt.ui.cview.groupincludes="false" org.eclipse.cdt.ui.cview.groupmacros="false" org.eclipse.cdt.ui.editor.CUChildren="true" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="org.eclipse.ui.views.PropertySheet" partName="Properties"/>
+<view id="org.eclipse.cdt.make.ui.views.MakeView" partName="Make Target">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<columnWidths org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="105" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105" org.eclipse.ui.ide.severityAndDescriptionField="350"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
 </views>
-<perspectives activePart="org.eclipse.ui.navigator.ProjectExplorer" activePerspective="org.eclipse.cdt.ui.CPerspective">
+<perspectives activePart="org.eclipse.team.ccvs.ui.RepositoriesView" activePerspective="org.eclipse.team.cvs.ui.cvsPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.ui.internal.ide.application.ResourcePerspective" id="org.eclipse.ui.resourcePerspective" label="Resource"/>
 <alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
@@ -185,13 +342,22 @@
 <hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
 <hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
 <view id="org.eclipse.ui.navigator.ProjectExplorer"/>
-<view id="org.eclipse.ui.views.ProblemView"/>
-<view id="org.eclipse.ui.views.TaskList"/>
-<view id="org.eclipse.ui.console.ConsoleView"/>
-<view id="org.eclipse.ui.views.PropertySheet"/>
-<view id="org.eclipse.ui.views.ContentOutline"/>
-<view id="org.eclipse.cdt.make.ui.views.MakeView"/>
-<fastViewBars/>
+<fastViewBars>
+<fastViewBar fastViewLocation="131072" id="topRight" orientation="512" selectedTabId="org.eclipse.cdt.make.ui.views.MakeView" style="0">
+<fastViews>
+<view id="org.eclipse.ui.views.ContentOutline" ratio="0.3"/>
+<view id="org.eclipse.cdt.make.ui.views.MakeView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="1024" id="bottom" orientation="256" selectedTabId="org.eclipse.ui.console.ConsoleView" style="0">
+<fastViews>
+<view id="org.eclipse.ui.views.ProblemView" ratio="0.3"/>
+<view id="org.eclipse.ui.views.TaskList" ratio="0.3"/>
+<view id="org.eclipse.ui.console.ConsoleView" ratio="0.21201414"/>
+<view id="org.eclipse.ui.views.PropertySheet" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
 <layout>
 <mainWindow>
 <info folder="true" part="topLeft">
@@ -215,26 +381,183 @@
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.24925224" ratioLeft="250" ratioRight="753" relationship="2" relative="topLeft"/>
 <info folder="true" part="bottom" ratio="0.35756385" ratioLeft="182" ratioRight="327" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
-<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="topRight" ratio="0.749004" ratioLeft="564" ratioRight="189" relationship="2" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.cdt.make.ui.views.MakeView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.debug.internal.ui.DebugPerspectiveFactory" id="org.eclipse.debug.ui.DebugPerspective" label="Debug"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.cdt.debug.ui.debugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<show_view_action id="org.eclipse.debug.ui.DebugView"/>
+<show_view_action id="org.eclipse.debug.ui.VariableView"/>
+<show_view_action id="org.eclipse.debug.ui.BreakpointView"/>
+<show_view_action id="org.eclipse.debug.ui.ExpressionView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.cdt.debug.ui.SignalsView"/>
+<show_view_action id="org.eclipse.debug.ui.RegisterView"/>
+<show_view_action id="org.eclipse.debug.ui.ModuleView"/>
+<show_view_action id="org.eclipse.debug.ui.MemoryView"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.cdt.debug.ui.executablesView"/>
+<show_view_action id="org.eclipse.cdt.debug.ui.memory.memorybrowser.MemoryBrowser"/>
+<show_view_action id="org.eclipse.cdt.dsf.gdb.ui.tracecontrol.view"/>
+<show_view_action id="org.eclipse.cdt.dsf.debug.ui.disassembly.view"/>
+<show_view_action id="org.eclipse.cdt.visualizer.view"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.jdt.debug.ui.DisplayView"/>
+<perspective_action id="org.eclipse.cdt.ui.CPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.RunToLine"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.cdt.debug.ui.executablesView"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<view id="org.eclipse.debug.ui.VariableView"/>
+<view id="org.eclipse.debug.ui.BreakpointView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.cdt.visualizer.view"/>
+<fastViewBars/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7497929" ratioLeft="905" ratioRight="302" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.ConsoleFolderView" ratio="0.7496274" ratioLeft="503" ratioRight="168" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
 <page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
-<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
-<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.cdt.debug.ui.executablesView" label="Executables"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
+<page content="org.eclipse.cdt.debug.ui.memory.memorybrowser.MemoryBrowser" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.debug.ui.DisplayView" label="LabelNotFound"/>
+<page content="org.eclipse.search.SearchResultView" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.MemoryView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 <part id="1"/>
 <part id="2"/>
 <part id="3"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="topRight" ratio="0.749004" ratioLeft="564" ratioRight="189" relationship="2" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
-<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
-<page content="org.eclipse.cdt.make.ui.views.MakeView" label="Make Target"/>
+<info part="org.eclipse.ui.editorss" ratio="0.42394823" ratioLeft="131" ratioRight="178" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView"/>
+<info folder="true" part="org.eclipse.debug.internal.ui.OutlineFolderView" ratio="0.7497929" ratioLeft="905" ratioRight="302" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.cdt.visualizer.view" label="Visualizer"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<page content="org.eclipse.cdt.dsf.gdb.ui.tracecontrol.view" label="LabelNotFound"/>
+<page content="org.eclipse.cdt.dsf.debug.ui.disassembly.view" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.ToolsFolderView" ratio="0.49958575" ratioLeft="603" ratioRight="604" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.debug.ui.VariableView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="Breakpoints"/>
+<page content="org.eclipse.debug.ui.ExpressionView" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.RegisterView" label="LabelNotFound"/>
+<page content="org.eclipse.cdt.debug.ui.SignalsView" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.ModuleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.team.internal.ccvs.ui.CVSPerspective" id="org.eclipse.team.cvs.ui.cvsPerspective" label="CVS Repository Exploring"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.team.cvs.ui.CVSActionSet"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.team.ui.GenericHistoryView"/>
+<show_view_action id="org.eclipse.team.ccvs.ui.RepositoriesView"/>
+<show_view_action id="org.eclipse.team.sync.views.SynchronizeView"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.project"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<perspective_action id="org.eclipse.ui.resourcePerspective"/>
+<perspective_action id="org.eclipse.team.ui.TeamSynchronizingPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.RunToLine"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.team.ccvs.ui.RepositoriesView"/>
+<view id="org.eclipse.team.ui.GenericHistoryView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="top">
+<folder activePageID="org.eclipse.team.ccvs.ui.RepositoriesView" appearance="2" expanded="2">
+<page content="org.eclipse.team.ccvs.ui.RepositoriesView" label="CVS Repositories"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
-<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.74973714" ratioLeft="713" ratioRight="238" relationship="2" relative="top">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.39957938" ratioLeft="380" ratioRight="571" relationship="2" relative="top"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@3737740c" ratio="0.7" ratioLeft="315" ratioRight="135" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.team.ui.GenericHistoryView" appearance="2" expanded="2">
+<page content="org.eclipse.team.ui.GenericHistoryView" label="History"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
 </presentation>
 </folder>
 </info>
@@ -243,12 +566,191 @@
 </perspective>
 </perspectives>
 <workingSets/>
-<navigationHistory/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/failcProjct/bin/vlc.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/failcProjct/src/audio_output/dec.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/failcProjct/modules/audio_output/TPCircularBuffer.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/failcProjct/src/audio_output/common.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/failcProjct/src/audio_output/filters.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/failcProjct/modules/audio_filter/resampler/src.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/failcProjct/modules/audio_mixer/float.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/failcProjct/modules/audio_filter/audiobargraph_a.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/failcProjct/modules/audio_filter/compressor.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/failcProjct/include/vlc_filter.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/failcProjct/include/vlc_es.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/failcProjct/modules/stream_out/gather.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/failcProjct/modules/stream_out/autodel.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/failcProjct/modules/control/hotkeys.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/failcProjct/src/playlist/engine.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/failcProjct/src/stream_output/stream_output.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/failcProjct/src/audio_output/volume.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/failcProjct/src/audio_output/aout_internal.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/failcProjct/include/vlc_aout.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/failcProjct/include/vlc_common.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/failcProjct/include/vlc_block.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/failcProjct/src/libvlc-module.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/failcProjct/modules/gui/qt4/util/pictureflow.cpp"/>
+</editors>
+<item historyLabel="TPCircularBuffer.c" index="2">
+<position info="not_deleted" x="4419" y="21"/>
+</item>
+<item historyLabel="filters.c" index="4">
+<position info="not_deleted" x="20589" y="0"/>
+</item>
+<item historyLabel="common.c" index="3">
+<position info="not_deleted" x="9216" y="0"/>
+</item>
+<item historyLabel="filters.c" index="4">
+<position/>
+</item>
+<item historyLabel="vlc.c" index="0">
+<position info="not_deleted" x="3264" y="0"/>
+</item>
+<item historyLabel="dec.c" index="1">
+<position info="not_deleted" x="12622" y="0"/>
+</item>
+<item historyLabel="filters.c" index="4">
+<position info="not_deleted" x="17001" y="0"/>
+</item>
+<item historyLabel="src.c" index="5">
+<position/>
+</item>
+<item historyLabel="filters.c" index="4">
+<position info="not_deleted" x="6452" y="0"/>
+</item>
+<item historyLabel="src.c" index="5">
+<position info="not_deleted" x="4810" y="0"/>
+</item>
+<item historyLabel="float.c" index="6">
+<position info="not_deleted" x="79" y="0"/>
+</item>
+<item historyLabel="src.c" index="5">
+<position info="not_deleted" x="4810" y="0"/>
+</item>
+<item historyLabel="audiobargraph_a.c" index="7">
+<position info="not_deleted" x="5737" y="0"/>
+</item>
+<item historyLabel="compressor.c" index="8">
+<position info="not_deleted" x="7245" y="0"/>
+</item>
+<item historyLabel="vlc_filter.h" index="9">
+<position info="not_deleted" x="2232" y="0"/>
+</item>
+<item historyLabel="vlc_es.h" index="10">
+<position info="not_deleted" x="13464" y="11"/>
+</item>
+<item historyLabel="vlc_es.h" index="10">
+<position info="not_deleted" x="14859" y="0"/>
+</item>
+<item historyLabel="vlc_es.h" index="10">
+<position info="not_deleted" x="2256" y="14"/>
+</item>
+<item historyLabel="gather.c" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="gather.c" index="11">
+<position info="not_deleted" x="1515" y="0"/>
+</item>
+<item historyLabel="gather.c" index="11">
+<position info="not_deleted" x="4646" y="6"/>
+</item>
+<item historyLabel="autodel.c" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="hotkeys.c" index="13">
+<position info="not_deleted" x="12383" y="9"/>
+</item>
+<item historyLabel="engine.c" index="14">
+<position info="not_deleted" x="5064" y="0"/>
+</item>
+<item historyLabel="common.c" index="3">
+<position info="not_deleted" x="9216" y="0"/>
+</item>
+<item historyLabel="dec.c" index="1">
+<position info="not_deleted" x="12926" y="0"/>
+</item>
+<item historyLabel="stream_output.c" index="15">
+<position/>
+</item>
+<item historyLabel="dec.c" index="1">
+<position info="not_deleted" x="12926" y="0"/>
+</item>
+<item historyLabel="stream_output.c" index="15">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="dec.c" index="1">
+<position info="not_deleted" x="12926" y="0"/>
+</item>
+<item historyLabel="volume.c" index="16">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="volume.c" index="16">
+<position info="not_deleted" x="3626" y="0"/>
+</item>
+<item historyLabel="volume.c" index="16">
+<position info="not_deleted" x="3546" y="0"/>
+</item>
+<item historyLabel="aout_internal.h" index="17">
+<position info="not_deleted" x="1838" y="0"/>
+</item>
+<item historyLabel="vlc_aout.h" index="18">
+<position info="not_deleted" x="12909" y="0"/>
+</item>
+<item historyLabel="filters.c" index="4">
+<position info="not_deleted" x="9902" y="0"/>
+</item>
+<item historyLabel="vlc_common.h" index="19">
+<position info="not_deleted" x="9089" y="0"/>
+</item>
+<item historyLabel="vlc_filter.h" index="9">
+<position info="not_deleted" x="2626" y="0"/>
+</item>
+<item historyLabel="vlc_block.h" index="20">
+<position info="not_deleted" x="4666" y="12"/>
+</item>
+<item historyLabel="vlc_filter.h" index="9">
+<position info="not_deleted" x="5523" y="0"/>
+</item>
+<item historyLabel="vlc_common.h" index="19">
+<position info="not_deleted" x="9089" y="0"/>
+</item>
+<item historyLabel="filters.c" index="4">
+<position info="not_deleted" x="9908" y="11"/>
+</item>
+<item historyLabel="libvlc-module.c" index="21">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="libvlc-module.c" index="21">
+<position info="not_deleted" x="1337" y="0"/>
+</item>
+<item historyLabel="libvlc-module.c" index="21">
+<position info="not_deleted" x="26097" y="0"/>
+</item>
+<item historyLabel="filters.c" index="4">
+<position info="not_deleted" x="12178" y="0"/>
+</item>
+<item historyLabel="pictureflow.cpp" index="22">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="pictureflow.cpp" index="22">
+<position info="not_deleted" x="2047" y="0"/>
+</item>
+<item historyLabel="pictureflow.cpp" index="22">
+<position info="not_deleted" x="4664" y="0"/>
+</item>
+<item active="true" historyLabel="vlc.c" index="0">
+<position info="not_deleted" x="3265" y="0"/>
+</item>
+</navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
 </page>
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
+<trimArea IMemento.internal.id="131072">
+<trimItem IMemento.internal.id="topRight"/>
+</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>
@@ -256,8 +758,55 @@
 <trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="bottom"/>
 </trimArea>
 </trimLayout>
 </window>
-<mruList/>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="pictureflow.cpp" tooltip="failcProjct/modules/gui/qt4/util/pictureflow.cpp">
+<persistable path="/failcProjct/modules/gui/qt4/util/pictureflow.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="libvlc-module.c" tooltip="failcProjct/src/libvlc-module.c">
+<persistable path="/failcProjct/src/libvlc-module.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="vlc_block.h" tooltip="failcProjct/include/vlc_block.h">
+<persistable path="/failcProjct/include/vlc_block.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="vlc_common.h" tooltip="failcProjct/include/vlc_common.h">
+<persistable path="/failcProjct/include/vlc_common.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="vlc_aout.h" tooltip="failcProjct/include/vlc_aout.h">
+<persistable path="/failcProjct/include/vlc_aout.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="aout_internal.h" tooltip="failcProjct/src/audio_output/aout_internal.h">
+<persistable path="/failcProjct/src/audio_output/aout_internal.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="volume.c" tooltip="failcProjct/src/audio_output/volume.c">
+<persistable path="/failcProjct/src/audio_output/volume.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stream_output.c" tooltip="failcProjct/src/stream_output/stream_output.c">
+<persistable path="/failcProjct/src/stream_output/stream_output.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="autodel.c" tooltip="failcProjct/modules/stream_out/autodel.c">
+<persistable path="/failcProjct/modules/stream_out/autodel.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="gather.c" tooltip="failcProjct/modules/stream_out/gather.c">
+<persistable path="/failcProjct/modules/stream_out/gather.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="vlc_es.h" tooltip="failcProjct/include/vlc_es.h">
+<persistable path="/failcProjct/include/vlc_es.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="vlc_filter.h" tooltip="failcProjct/include/vlc_filter.h">
+<persistable path="/failcProjct/include/vlc_filter.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="compressor.c" tooltip="failcProjct/modules/audio_filter/compressor.c">
+<persistable path="/failcProjct/modules/audio_filter/compressor.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="audiobargraph_a.c" tooltip="failcProjct/modules/audio_filter/audiobargraph_a.c">
+<persistable path="/failcProjct/modules/audio_filter/audiobargraph_a.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="float.c" tooltip="failcProjct/modules/audio_mixer/float.c">
+<persistable path="/failcProjct/modules/audio_mixer/float.c"/>
+</file>
+</mruList>
 </workbench>
